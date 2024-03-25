@@ -133,7 +133,7 @@ https://youtu.be/BzN-tBgW-xs
 # Learn more about DIA
 
 - [Twitter](https://twitter.com/DIAdata_org)
-- [Discord](https://discord.gg/dia-dao)
+- [Discord](https://discord.gg/ZvGjVY5uvs)
 - [Website](https://diadata.org/)
 - [Docs](https://docs.diadata.org/)
 - [Explore data](https://www.diadata.org/app/)
